@@ -12,13 +12,13 @@ namespace Lecture_1
     {
         static void Main(string[] args)
         {
-            // User input taken
+            // b) User input taken
             string name = Console.ReadLine();
 
-            // Place holder syntax to print the variable.
+            // a) Place holder syntax to print the variable.
             Console.WriteLine("Hello {0}",name);
 
-            /*Basic data types in c#
+            /*c) Basic data types in c#
                 sbyte  :  -128 to 127 signed 8 bit
                 byte   :   0 to 255 unsigned
                 char   :   unicode 16 bit character 
@@ -31,7 +31,7 @@ namespace Lecture_1
             */
 
 
-            // Escape sequence : For characters like " we need to add a escape sequence to print it.Example is shown
+            // d) Escape sequence : For characters like " we need to add a escape sequence to print it.Example is shown
             string str = "\"hemant\"";
             Console.WriteLine(str);
 
