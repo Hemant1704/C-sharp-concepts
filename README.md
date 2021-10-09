@@ -1,8 +1,7 @@
 # C-sharp-concepts
 This repository contains various code files to learn c sharp in structured manner.
 
-## 1. Program1.cs
-<br>
+## 1. Program1.cs <br>
 In this I have mentioned about basic concepts:<br>
 a) Printing to console<br>
 b) Taking user input in C#<br>
