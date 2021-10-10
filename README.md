@@ -15,3 +15,9 @@ b) Converting value types to nullable.<br>
 c) Need for nullable types.<br>
 d) Converting nullable back to value types.<br>
 e) Null coalescing operator. <br>
+
+## 3. Program3.cs <br>
+In this I have mentioned about concepts related to data type conversion.<br>
+a) Implicit and explicit conversion.<br>
+b) parse method.<br>
+c) tryParse method.<br>
