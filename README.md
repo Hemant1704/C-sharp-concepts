@@ -21,3 +21,11 @@ In this I have mentioned about concepts related to data type conversion.<br>
 a) Implicit and explicit conversion.<br>
 b) parse method.<br>
 c) tryParse method.<br>
+
+## 4. Program4.cs <br>
+In this I have mentioned about various concepts.<br>
+a) arrays in c sharp.<br>
+b) comments.<br>
+c) operators.<br>
+d) if else statements<br>
+e) switch case statements<br>
