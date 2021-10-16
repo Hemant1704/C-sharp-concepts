@@ -37,7 +37,7 @@ namespace Lecture_1{
 
 			// d) for each loop 
 			int[] numbers = { 1,2,3,4,5};
-			for (int num:numbers) {
+			foreach(int num in numbers) {
 				// for each element in the numbers array do this
 				Console.WriteLine(num);
 			}

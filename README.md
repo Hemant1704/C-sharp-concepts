@@ -37,3 +37,9 @@ b) while.<br>
 c) do while loop.<br>
 d) for each loop.<br>
 e) continue and break<br>
+
+## 6. Program6.cs <br>
+In this I have mentioned about concepts related to methods.<br>
+a) method defintion<br>
+b) static and non static methods<br>
+c) parameters and their types<br>
