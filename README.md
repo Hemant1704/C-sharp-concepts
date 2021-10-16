@@ -29,3 +29,11 @@ b) comments.<br>
 c) operators.<br>
 d) if else statements<br>
 e) switch case statements<br>
+
+## 5. Program5.cs <br>
+In this I have mentioned about loop types.<br>
+a) for loop.<br>
+b) while.<br>
+c) do while loop.<br>
+d) for each loop.<br>
+e) continue and break<br>
