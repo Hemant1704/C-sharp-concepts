@@ -51,3 +51,6 @@ In this I have mentioned about concepts related to methods.<br>
 a) method defintion<br>
 b) static and non static methods<br>
 c) parameters and their types<br>
+
+## 7. Program7.cs <br>
+In this I have mentioned about just very basic about namespaces.<br>
