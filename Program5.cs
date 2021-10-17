@@ -7,7 +7,7 @@
 namespace Lecture_1{
 	class Program5
 	{
-		static void main(string[] args){
+		static void Main(string[] args){
 			/*
 			In this we are going to learn about the loops in c sharp
 			So the loops are similar to c++ and java 

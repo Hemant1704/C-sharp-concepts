@@ -9,7 +9,7 @@ namespace Lecture_1
 
 
 
-        static void main(string[] args)
+        static void Main(string[] args)
         {
             /*
             a)

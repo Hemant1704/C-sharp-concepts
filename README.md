@@ -1,6 +1,14 @@
 # C-sharp-concepts
 This repository contains various code files to learn c sharp in structured manner.
 
+## Naming conventions<br>
+1. Pascal case for method names and classes -> HelloHemant<br>
+2. Camel case for variable names and method parameters -> thisIsVariable<br>
+3. Use prefix I for interface names -> IMyInterface<br>
+4. Use meaningful descriptive words to name variables.<br>
+5. Avoid using single character varibles like i instead use something like index.<br>
+6. Avoid using underscore in local varible names.<br>
+
 ## 1. Program1.cs <br>
 In this I have mentioned about basic concepts:<br>
 a) Printing to console<br>

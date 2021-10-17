@@ -41,7 +41,7 @@ namespace Lecture_1
 			*/
 
 
-		static void main(string[] args) {
+		static void Main(string[] args) {
 			
 			// calling the method inside the class
 			// I cannot call like evenNumbers(20); as this is not a static method i need to make a instance and then call it
