@@ -23,7 +23,7 @@ namespace Lecture_1
 
 		Also the constructors can be overloaded and used accordingly.
 		 */
-		static void Main { 
+		static void Main(string[] args){ 
 			// In the main method we need to create an instance of the class.
 			// Here the constructor will be used.
 			Customer c1 = new Customer("Hemant","Chauhan");
