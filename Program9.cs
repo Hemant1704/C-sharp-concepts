@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Lecture_1 {
-	class Program8
+	class Program9
 	{
 		/*
 		In this we will learn about static and instance members.

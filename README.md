@@ -60,3 +60,6 @@ Explained about classes and constructors.<br>
 
 ## 9. Program9.cs <br>
 This file contains about static and instance fields.<br>
+
+## 10. Program10.cs <br>
+This file contains about inheritence.<br>
